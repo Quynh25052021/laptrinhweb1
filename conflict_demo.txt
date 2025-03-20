@@ -1,1 +1,5 @@
+ HEAD
 Conflict nội dung từ master
+
+Conflict nội dung từ test_conflict
+ test_conflict
